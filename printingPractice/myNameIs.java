@@ -1,4 +1,4 @@
-public class MyNameIs {
+public class myNameIs {
     public static void main(String[] args) {
       //the main method executes the tasks of the class
       System.out.println("My name is ");
